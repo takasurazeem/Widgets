@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Widgets</string>
+    <string name="prompt_cities">Choose City</string>
+    <string-array name="cities">
+        <item>Islamabad</item>
+        <item>Rawalpindi</item>
+        <item>Lahore</item>
+    </string-array>
 </resources>
